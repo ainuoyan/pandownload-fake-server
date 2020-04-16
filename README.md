@@ -6,9 +6,13 @@ https://www.hostloc.com/thread-675311-1-1.html
 1. 下载带脚本缓存的Pandownload
 [点我下载](https://github.com/TkzcM/pandownload-fake-server/blob/master/PanDownload_add_temp.zip?raw=true)
 
-2. hosts 添加
+2. hosts 添加(欢迎贡献) 或 右键管理员身份执行install.bat
 ```
 64.52.84.68 pandownload.com
+```
+或
+```
+47.89.16.252 pandownload.com
 ```
 由于请求内有算法生成的bdc token，此方法的有效时间未知，且用且珍惜
 # 想说的话
